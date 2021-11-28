@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalhando com automações web 
-- 🌱 estou atualmente aprendendo python e c++
+- 🌱 estou atualmente aprendendo python,  c++ e c#
 - 👯 contate-me no email: mariobarbosavalente@gmail.com
 -  <div>
   <a href="https://github.com/Mariovalente">
