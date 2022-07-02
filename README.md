@@ -1,8 +1,8 @@
 ### olá, eu sou o Mario
 
 
-- 🔭 Hoje trabalhando com automações web 
-- 🌱 estou atualmente aprendendo python,  c++ e c#
+- 🔭 Hoje trabalhando como QA 
+- 🌱 estou atualmente aprendendo CYpress
 - 👯 contate-me no email: mariobarbosavalente@gmail.com
 -  <div>
   <a href="https://github.com/Mariovalente">
